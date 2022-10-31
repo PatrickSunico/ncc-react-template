@@ -1,0 +1,33 @@
+{
+    "mode":"local",
+    "esriApiUrl": "https://njmu.stg.ncc/arcgis_js_api/library/4.14/dojo/dojo.js",
+    "esriApiVersion": "4.14",
+    "esriApicssUrl": "https://njmu.stg.ncc/arcgis_js_api/library/4.14/esri/css/main.css",
+    "baseMapUrl": "https://njmgis.stg.ncc:6443/arcgis/rest/services/NJMMRG/Satellite_Ar_2019_NEW_STR/MapServer",
+    "proxyUrl": "https://njmu.stg.ncc/arcgis_proxy/proxy.jsp",
+    "urlPrefix": "https://njmgis.stg.ncc:6443",
+    "gisTokenUrl": "https://njmgis.stg.ncc:6443/arcgis/tokens/generateToken",
+    "geometryService": "https://njmgis.stg.ncc:6443/arcgis/rest/services/Utilities/Geometry/GeometryServer",
+    "wkid":"2932",
+    "initialExtent":{
+        "xmin": 134944.6465,
+        "ymin": 302268.67799999897,
+        "xmax": 382723.8678,
+        "ymax": 586066.981699999,
+        "spatialReference": {
+            "wkid": 2932
+        }
+    },
+    "fullExtent":{
+        "xmin": 134944.6465,
+        "ymin": 302268.67799999897,
+        "xmax": 382723.8678,
+        "ymax": 586066.981699999,
+        "spatialReference": {
+            "wkid": 2932
+        }
+    }
+
+}
+
+

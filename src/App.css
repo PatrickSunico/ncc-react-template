@@ -1,0 +1,30 @@
+.widget {
+  background: #e2e2e2;
+  box-shadow: 1px 2px 5px 1px #676767;
+  color: #444;
+  height: auto;
+  left: 5em;
+  padding: 1em;
+  position: absolute;
+  top: 5.5em;
+  width: 500px;
+  z-index: 41;
+  } 
+  .analysisToolBar{
+    position: absolute;
+    top: 5em;
+    z-index: 40;
+  }
+  /* Horizontal toolbar */
+.toolbar-horizontal {
+  position: fixed;
+  top: 2em;
+  left:5em;
+  background-color: #333333;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 0;
+  padding-right: 0;
+  border-radius: 6px 6px 6px 6px;
+  z-index: 40;
+}

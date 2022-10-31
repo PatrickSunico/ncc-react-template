@@ -1,0 +1,9 @@
+@import url("hover.css");
+ 
+html,
+body,
+#root,
+.webmap {
+  height: 100%;
+  margin: 0;
+}
